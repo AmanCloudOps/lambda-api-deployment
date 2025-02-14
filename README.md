@@ -78,4 +78,11 @@ Create a simple Python file, `handler.py`, that will return a JSON response. Her
     --principal apigateway.amazonaws.com
 
 #### Test it using:
-    curl https://<API_ID>.execute-api.<REGION>.amazonaws.com/dev/myresource    
+    curl https://<API_ID>.execute-api.<REGION>.amazonaws.com/dev/myresource   
+
+    
+<img width="1680" alt="Screenshot 2025-02-13 at 11 15 13 PM" src="https://github.com/user-attachments/assets/ed558fb2-fe2f-4281-ac14-d6ea170b3a60" />
+<img width="1680" alt="Screenshot 2025-02-14 at 11 07 38 PM" src="https://github.com/user-attachments/assets/5f74ccf5-42d6-4d0a-8f3b-e58205d6ec9a" />
+<img width="1680" alt="Screenshot 2025-02-14 at 11 20 05 PM" src="https://github.com/user-attachments/assets/8058961a-8a37-46d5-93e2-fb23a0338c77" />
+
+
